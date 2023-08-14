@@ -12,6 +12,7 @@ struct SuporteAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            // teste commit
         }
     }
 }
